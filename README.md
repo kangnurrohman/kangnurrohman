@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)]()
 <h1 align="center">Hi 👋, I'm Ainur Rohman</h1>
 <h3 align="center">Currently studying data science, especially NLP and Sentiment Analysis</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
@@ -12,6 +11,8 @@
 - 🌱 I’m currently learning **NLP and Sentiment Analysis**
 
 - 📫 How to reach me **kangnurrohman@gmail.com**
+
+- ⚡ Fun fact **I like to joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
