@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ainur Rohman</h1>
-<h3 align="center">Currently studying data science, especially NLP and Sentiment Analysis</h3>
+<h3 align="center">Currently studying DA | DS | ML | DE</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangnurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="kangnurrohman" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **PT. Indonesia Comnets Plus**
 
-- 🌱 I’m currently learning **NLP and Sentiment Analysis**
+- 🌱 I’m currently learning **DA | DS | ML | DE**
 
 - 📫 How to reach me **kangnurrohman@gmail.com**
 
