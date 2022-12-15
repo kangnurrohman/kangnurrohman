@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **kangnurrohman@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WeYAj1CdiYOwjU1EhCIIf_OIJ9U11ruB/view?usp=share_link)
+
 - ⚡ Fun fact **I like to joke**
 
 <h3 align="left">Connect with me:</h3>
