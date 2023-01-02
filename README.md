@@ -33,10 +33,10 @@
 
 </p>
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kangnurrohman/competition/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kangnurrohman/dataset/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kangnurrohman/notebook/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kangnurrohman/discussion/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohainurrohman/competition/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohainurrohman/dataset/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohainurrohman/notebook/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohainurrohman/discussion/dark" />
 </p>
 
 ### ✍️ Random Dev Quote
