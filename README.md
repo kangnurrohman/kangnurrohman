@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kangnurrohman@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MTLMv51f9NSUzUpAJv-sxSt4lHEFYuPl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mE5VWiQ5JstjxGtrknKn1OSS9OSDAPMx/view?usp=sharing)
 
 - ⚡ Fun fact **I like to joke**
 
