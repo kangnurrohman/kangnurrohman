@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ainur Rohman</h1>
-<h3 align="center">I'm interested in Data Analyst, Data Science, Machine Learning, Deep Learning, NLP</h3>
+<h3 align="center">Hi 👋, I'm Ainur Rohman</h3>
+<h5 align="center">I'm interested in Data Analyst, Data Science, Machine Learning, Deep Learning, NLP</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangnurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="kangnurrohman" /> </p>
 
 - 🔭 I’m currently working on **PT. Indonesia Comnets Plus**
-
 - 🌱 I’m currently learning **DA | DS | ML | DL**
-
 - 📫 How to reach me **kangnurrohman@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://dik.si/ResumeAinurRohman)
-
 - ⚡ Fun fact **I like to joke**
 
 <h3 align="left">Connect with me:</h3>
