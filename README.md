@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Ainur Rohman</h2>
 <h4 align="center">I'm interested in Data Analyst, Data Science, Machine Learning, Deep Learning, NLP</h4>
 
-- 🔭 I’m currently working on **PT. Indonesia Comnets Plus**
+- 🔭 I’m currently working on **PLN Icon Plus**
 - 🌱 I’m currently learning **DA | DS | ML | DL**
 - 📫 How to reach me **kangnurrohman@gmail.com**
 - 📄 Know about my experiences [Resume](https://dik.si/ResumeAinurRohman)
