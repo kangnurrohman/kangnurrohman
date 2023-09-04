@@ -2,7 +2,7 @@
 <h4 align="center">Junior Data Analyst</h4>
 
 - 🔭 I’m currently working on **PLN Icon Plus**
-- 🌱 I focus on studying **Data Analyst**
+- 🌱 I focus on studying **Data Analytics**
 - 📫 How to reach me **kangnurrohman@gmail.com**
 - 📄 Know about my experiences [Resume](https://dik.si/ResumeAinurRohman)
 - ⚡ Fun fact **I like to joke**
