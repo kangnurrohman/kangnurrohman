@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Ainur Rohman</h3>
-<h4 align="center">Junior Data Analyst</h4>
+<h4 align="center">Data Analyst</h4>
 
 - 🔭 I’m currently working on **PLN Icon Plus**
 - 🌱 I focus on studying **Data Analytics**
