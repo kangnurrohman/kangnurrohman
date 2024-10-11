@@ -10,7 +10,7 @@
 
 
 ### Tech Stack:
-![Python](https://a11ybadges.com/badge?logo=python) ![R](https://a11ybadges.com/badge?logo=r) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Power BI](https://a11ybadges.com/badge?logo=powerbi) ![Tableau](https://a11ybadges.com/badge?logo=tableau) ![Looker](https://a11ybadges.com/badge?logo=looker)
+![Python](https://a11ybadges.com/badge?logo=python) ![R](https://a11ybadges.com/badge?logo=r) ![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Power BI](https://a11ybadges.com/badge?logo=powerbi) ![Tableau](https://a11ybadges.com/badge?logo=tableau) ![Looker](https://a11ybadges.com/badge?logo=looker) ![Microsoft Excel](https://a11ybadges.com/badge?logo=microsoftexcel) ![Google Sheets](https://a11ybadges.com/badge?logo=googlesheets) ![Streamlit](https://a11ybadges.com/badge?logo=streamlit) ![Git](https://a11ybadges.com/badge?logo=git) ![GitHub](https://a11ybadges.com/badge?logo=github)
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kangnurrohman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
