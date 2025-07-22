@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **PLN Icon Plus**
 - 🌱 I focus on studying **Data Science**
 - 📫 How to reach me **kangnurrohman@gmail.com**
-- 📄 Know about my experiences [Resume](https://dik.si/ResumeAinurRohman)
+- 📄 Know about my experiences [Resume](https://kangnurrohman.github.io/portfolio/)
 - ⚡ Fun fact **I like to joke**
 
 
