@@ -1,8 +1,8 @@
 <h3 align="center">Hi 👋, I'm Ainur Rohman</h3>
-<h4 align="center">Data Analyst</h4>
+<h4 align="center">Data Analyst and Scientist</h4>
 
 - 🔭 I’m currently working on **PLN Icon Plus**
-- 🌱 I focus on studying **Data Analytics**
+- 🌱 I focus on studying **Data Science**
 - 📫 How to reach me **kangnurrohman@gmail.com**
 - 📄 Know about my experiences [Resume](https://dik.si/ResumeAinurRohman)
 - ⚡ Fun fact **I like to joke**
